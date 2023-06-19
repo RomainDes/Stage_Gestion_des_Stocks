@@ -1,0 +1,350 @@
+[
+     {
+         "référence": "121035",
+         "nom_du_produit": "Morceaux de muscles à hacher vbf       frais",
+         "prix_par_unité": 11.2,
+         "quantité_par_unité": 1,
+         "plat": [
+             {"nom_du_plat": "TRIPLE RUST. MAQUIGNON","quantite": 0.33},
+             {"nom_du_plat": "TRIPLE CROUSTI BURGER","quantite": 0.33},
+             {"nom_du_plat": "TRIPLE CLASSIC BURGER","quantite": 0.33},
+             {"nom_du_plat": "TRIPLE ESTIVAL BURGER","quantite": 0.33},
+             {"nom_du_plat": "TRIPLE MAQUIGNON","quantite": 0.33},
+             {"nom_du_plat": "RUSTIQUE MAQUI.","quantite": 0.11},
+             {"nom_du_plat": "MAQUIGNON","quantite": 0.11},
+             {"nom_du_plat": "ESTIVAL BURGER","quantite": 0.11},
+             {"nom_du_plat": "DOUBLE RUSTIQUE MAQ.","quantite": 0.22},
+             {"nom_du_plat": "DOUBLE MAQUIGNON","quantite": 0.22},
+             {"nom_du_plat": "DOUBLE ESTIVAL BURGER","quantite": 0.22},
+             {"nom_du_plat": "DOUBLE CROUSTI BURGER","quantite": 0.22},
+             {"nom_du_plat": "DOUBLE CLASSIC BURGER","quantite": 0.22},
+             {"nom_du_plat": "CLASSIC BURGER","quantite": 0.11},
+             {"nom_du_plat": "TARTARE POELE 330GR","quantite": 0.33},
+             {"nom_du_plat": "TARTARE POELE 220GR","quantite": 0.22},
+             {"nom_du_plat": "TARTARE POELE 110GR","quantite": 0.11},
+             {"nom_du_plat": "TARTARE 330GR","quantite": 0.33},
+             {"nom_du_plat": "TARTARE 220GR","quantite": 0.22},
+             {"nom_du_plat": "TARTARE 110GR","quantite": 0.11},
+             {"nom_du_plat": "TARPACCIO SIMPLE","quantite": 0.11},
+             {"nom_du_plat": "TARPACCIO DOUBLE","quantite": 0.22},
+             {"nom_du_plat": "STEAK HACHE SCE POIVRE","quantite": 0.11},
+             {"nom_du_plat": "HACHE 330GR","quantite": 0.33},
+             {"nom_du_plat": "HACHE 220GR","quantite": 0.22},
+             {"nom_du_plat": "HACHE 110GR","quantite": 0.11},
+             {"nom_du_plat": "HACHE 110G SUPP","quantite": 0.11},
+             {"nom_du_plat": "PTIT BURGER","quantite": 0.11},
+             {"nom_du_plat": "CROUSTI BURGER","quantite": 0.11}
+        ]
+     },
+     {
+         "référence": "131020",
+         "nom_du_produit": "Pave rtk 170 grs       frais",
+         "prix_par_unité": 18.4,
+         "quantité_par_unité": 0.85,
+         "plat": [
+             {"nom_du_plat": "PAVE RUMSTECK","quantite": 0.17}
+        ]
+     },
+     {
+         "référence": "131041",
+         "nom_du_produit": "Bavette aloyau 170 grs       frais",
+         "prix_par_unité": 16.0,
+         "quantité_par_unité": 0.85,
+         "plat": [
+             {"nom_du_plat": "BAVETTE D'ALOYAU","quantite": 0.17}
+        ]
+     },
+     {
+         "référence": "131044",
+         "nom_du_produit": "Araignee pac       frais",
+         "prix_par_unité": 18.5,
+         "quantité_par_unité": 1.0,
+         "plat": [
+             {"nom_du_plat": "ARAIGNEE 240GR","quantite": 0.24},
+             {"nom_du_plat": "ARAIGNEE 160GR","quantite": 0.16}
+        ]
+     },
+     {
+         "référence": "131047",
+         "nom_du_produit": "Onglet 200 grs       frais",
+         "prix_par_unité": 19.0,
+         "quantité_par_unité": 1.0,
+         "plat": [
+             {"nom_du_plat": "ONGLET","quantite": 0.2},
+             {"nom_du_plat": "BROCH. ONGLET","quantite": 0.16}
+        ]
+     },
+     {
+         "référence": "131061",
+         "nom_du_produit": "Panache onglet 80 grs       frais",
+         "prix_par_unité": 17.5,
+         "quantité_par_unité": 0.4,
+         "plat": [
+             {"nom_du_plat": "PANACHE DU BOUCHER","quantite": 0.08}
+        ]
+     },
+     {
+         "référence": "131062",
+         "nom_du_produit": "Panache araignees 80 grs       frais",
+         "prix_par_unité": 17.0,
+         "quantité_par_unité": 0.4,
+         "plat": [
+             {"nom_du_plat": "PANACHE DU BOUCHER","quantite": 0.08}
+        ]
+     },
+     {
+         "référence": "131063",
+         "nom_du_produit": "Panache poire 80 grs       frais",
+         "prix_par_unité": 16.7,
+         "quantité_par_unité": 0.4,
+         "plat": [
+             {"nom_du_plat": "PANACHE DU BOUCHER","quantite": 0.08}
+        ]
+     },
+     {
+         "référence": "131071",
+         "nom_du_produit": "Entrecotes 300 grs race a viande       frais",
+         "prix_par_unité": 25.4,
+         "quantité_par_unité": 0.9,
+         "plat": [
+             {"nom_du_plat": "ENTRECOTE 300GR","quantite": 0.3}
+        ]
+     },
+     {
+         "référence": "131072",
+         "nom_du_produit": "Entrecotes 230 grs       frais",
+         "prix_par_unité": 25.0,
+         "quantité_par_unité": 0.92,
+         "plat": [
+             {"nom_du_plat": "ENTRECOTE 230GR","quantite": 0.23}
+        ]
+     },
+     {
+         "référence": "131073",
+         "nom_du_produit": "Surprise du boucher 170 grs       frais",
+         "prix_par_unité": 15.9,
+         "quantité_par_unité": 0.85,
+         "plat": [
+             {"nom_du_plat": "SURPRISE DU BOUCHER","quantite": 0.17}
+        ]
+     },
+     {
+         "référence": "131106",
+         "nom_du_produit": "Cotes 430 grs        frais",
+         "prix_par_unité": 23.0,
+         "quantité_par_unité": 0.43,
+         "plat": [
+             {"nom_du_plat": "COTE 430GR","quantite": 0.43}
+        ]
+     },
+     {
+         "référence": "151005",
+         "nom_du_produit": "Mi cuit de bœuf - tataki       frais",
+         "prix_par_unité": 17.1,
+         "quantité_par_unité": 1.0,
+         "plat": [
+             {"nom_du_plat": "MI-CUIT BOEUF TATAKI","quantite": 0.16},
+             {"nom_du_plat": "SUPP TATAKI BOEUF","quantite": 0.05}
+        ]
+     },
+     {
+         "référence": "151009",
+         "nom_du_produit": "Millefeuille 180 grs       frais",
+         "prix_par_unité": 17.1,
+         "quantité_par_unité": 0.72,
+         "plat": [
+             {"nom_du_plat": "MILLEFEUILLE BOEUF","quantite": 0.18}
+        ]
+     },
+     {
+         "référence": "900051",
+         "nom_du_produit": "Bloc de foie gras de canard mi-cuit        frais",
+         "prix_par_unité": 36.0,
+         "quantité_par_unité": 1.98,
+         "plat": [
+             {"nom_du_plat": "BLOC FOIE GRAS","quantite": 0.05},
+             {"nom_du_plat": "BLOC FOIE GRAS M","quantite": 0.05}
+        ]
+     },
+     {
+         "référence": "900095",
+         "nom_du_produit": "Terrines de foie de volaille 70grs       frais",
+         "prix_par_unité": 11.2,
+         "quantité_par_unité": 1.05,
+         "plat": [
+             {"nom_du_plat": "PLANCH. TRADITIONNELLE","quantite": 0.07},
+             {"nom_du_plat": "TERRINE FOIES VOLAILLE","quantite": 0.07}
+        ]
+     },
+     {
+         "référence": "900115",
+         "nom_du_produit": "Rillettes du mans à l'ancienne       frais",
+         "prix_par_unité": 8.04,
+         "quantité_par_unité": 1.32,
+         "plat": [
+             {"nom_du_plat": "PLANCH. TRADITIONNELLE","quantite": 0.05}
+        ]
+     },
+     {
+         "référence": "900117",
+         "nom_du_produit": "Crayons aux herbes       frais",
+         "prix_par_unité": 13.99,
+         "quantité_par_unité": 3.0,
+         "plat": [
+             {"nom_du_plat": "PLANCH. TRADITIONNELLE","quantite": 0.03}
+        ]
+     },
+     {
+         "référence": "151012",
+         "nom_du_produit": "Eminces de boeuf 180 grs marines (ail des ours ou citron poivre vert)       frais",
+         "prix_par_unité": 9.9,
+         "quantité_par_unité": 1.0,
+         "plat": [
+             {"nom_du_plat": "EMINCE BOEUF MARINE","quantite": 0.18}
+        ]
+     },
+     {
+         "référence": "132009",
+         "nom_du_produit": "Entrecotes enfants * 4      surgele",
+         "prix_par_unité": 7.0,
+         "quantité_par_unité": 5.0,
+         "plat": [
+             {"nom_du_plat": "ENFANT COEUR ENTRECOTE","quantite": 0.3}
+        ]
+     },
+     {
+         "référence": "132077",
+         "nom_du_produit": "Trésor du louchebem (pièce de 350g)     surgele",
+         "prix_par_unité": 19.3,
+         "quantité_par_unité": 5.0,
+         "plat": [
+             {"nom_du_plat": "TRESOR LOUCHEBEM","quantite": 0.35}
+        ]
+     },
+     {
+         "référence": "132078",
+         "nom_du_produit": "Cotes 430 grs     surgele",
+         "prix_par_unité": 18.3,
+         "quantité_par_unité": 5.0,
+         "plat": [
+             {"nom_du_plat": "COTE 430GR","quantite": 0.43}
+        ]
+     },
+     {
+         "référence": "132085",
+         "nom_du_produit": "Entrecotes 300 grs race a viande     surgele",
+         "prix_par_unité": 22.9,
+         "quantité_par_unité": 5.0,
+         "plat": [
+             {"nom_du_plat": "ENTRECOTE 300GR","quantite": 0.3}
+        ]
+     },
+     {
+         "référence": "132086",
+         "nom_du_produit": "Entrecotes 230 grs      surgele",
+         "prix_par_unité": 18.9,
+         "quantité_par_unité": 5.0,
+         "plat": [
+             {"nom_du_plat": "ENTRECOTE 230GR","quantite": 0.23}
+        ]
+     },
+     {
+         "référence": "902173",
+         "nom_du_produit": "Brochette de poulet bacon     surgele",
+         "prix_par_unité": 12.9,
+         "quantité_par_unité": 5.0,
+         "plat": [
+             {"nom_du_plat": "GRANDE FESTIVAL","quantite": 0.12}
+        ]
+     },
+     {
+         "référence": "902187",
+         "nom_du_produit": "Escalope de foie gras poêlée     surgele",
+         "prix_par_unité": 47.9,
+         "quantité_par_unité": 5.25,
+         "plat": [
+             {"nom_du_plat": "SUPP FOIE GRAS POELE","quantite": 0.05}
+        ]
+     },
+     {
+         "référence": "902236",
+         "nom_du_produit": "Demi magret de canard crus     surgele",
+         "prix_par_unité": 16.65,
+         "quantité_par_unité": 5.0,
+         "plat": [
+             {"nom_du_plat": "BROCH. CANARD PECHES","quantite": 0.16}
+        ]
+     },
+     {
+         "référence": "902240",
+         "nom_du_produit": "Tataki de thon     surgele",
+         "prix_par_unité": 17.89,
+         "quantité_par_unité": 4.0,
+         "plat": [
+             {"nom_du_plat": "SUPP TATAKI THON","quantite": 0.05},
+             {"nom_du_plat": "TATAKI DE THON","quantite": 0.14}
+        ]
+     },
+     {
+         "référence": "902287",
+         "nom_du_produit": "Saumon mariné citron poivre     surgele",
+         "prix_par_unité": 28.3,
+         "quantité_par_unité": 5.0,
+         "plat": [
+             {"nom_du_plat": "SAUMON MARINE","quantite": 0.06},
+             {"nom_du_plat": "AVOCADO TOAST","quantite": 0.02}
+        ]
+     },
+     {
+         "référence": "902288",
+         "nom_du_produit": "Aiguillettes de poulet corn flakes     surgele",
+         "prix_par_unité": 8.7,
+         "quantité_par_unité": 5.0,
+         "plat": [
+             {"nom_du_plat": "GRANDE CAESAR","quantite": 0.12},
+             {"nom_du_plat": "ENFANT POULET CROUSTILLANT","quantite": 0.08},
+             {"nom_du_plat": "POULET CROUSTILLANT","quantite": 0.15},
+             {"nom_du_plat": "POULET CROUSTILLANT VAE","quantite": 0.15}
+        ]
+     },
+     {
+         "référence": "902302",
+         "nom_du_produit": "Carpaccio de bœuf     surgele",
+         "prix_par_unité": 19.45,
+         "quantité_par_unité": 4.5,
+         "plat": [
+             {"nom_du_plat": "PLAT CARPA BASILIC","quantite": 0.3},
+             {"nom_du_plat": "PLAT CARPA CHEVRE","quantite": 0.1},
+             {"nom_du_plat": "TARPACCIO SIMPLE","quantite": 0.05},
+             {"nom_du_plat": "TARPACCIO DOUBLE","quantite": 0.1},
+             {"nom_du_plat": "ENT CARPA BASILIC","quantite": 0.3}
+        ]
+     },
+     {
+         "référence": "902305",
+         "nom_du_produit": "Coulant gourmand chocolat     surgele",
+         "prix_par_unité": 9.69,
+         "quantité_par_unité": 1.62,
+         "plat": [
+             {"nom_du_plat": "COEUR COULANT CHOCO","quantite": 0.18}
+        ]
+     },
+     {
+         "référence": "902309",
+         "nom_du_produit": "Jambon à griller     surgele",
+         "prix_par_unité": 9.02,
+         "quantité_par_unité": 9.0,
+         "plat": [
+             {"nom_du_plat": "JAMBON GRILLE","quantite": 0.15}
+        ]
+     },
+     {
+         "référence": "902311",
+         "nom_du_produit": "Poulet olives-citron vert     surgele",
+         "prix_par_unité": 10.7,
+         "quantité_par_unité": 5.4,
+         "plat": [
+             {"nom_du_plat": "POULET OLIVES CITRONS","quantite": 0.27}
+        ]
+     }
+]

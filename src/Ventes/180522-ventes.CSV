@@ -1,0 +1,1119 @@
+Numéro;Type de Ligne;Niveau;Texte;Quantité;Montant
+1;1;0;"CARPACCIOS ENTREES";0,00;0,00 €
+2;1;1;"ENT CARPA BASILIC";0,00;0,00 €
+3;2;1;"Total Net";7,00;0,00 €
+4;2;1;" dont Menus";7,00;0,00 €
+5;2;1;"Total Modification Note";6,00;0,00 €
+6;0;0;"";0,00;0,00 €
+7;4;0;"Net CARPACCIOS ENTREES";7,00;0,00 €
+8;4;0;" dont Menus";7,00;0,00 €
+9;4;0;"Modification Note";6,00;0,00 €
+10;0;0;"";0,00;0,00 €
+11;1;0;"CARPACCIOS PLATS";0,00;0,00 €
+12;1;1;"MI-CUIT BOEUF TATAKI";0,00;0,00 €
+13;2;1;"Total Net";25,00;478,75 €
+14;2;1;" dont Ventes";25,00;478,75 €
+15;2;1;"Total Perte";1,00;19,15 €
+16;2;1;"Total Avoir Ticket";2,00;38,30 €
+17;2;1;"Total Modification Note";3,00;57,45 €
+18;0;0;"";0,00;0,00 €
+19;1;1;"PLAT CARPA BASILIC";0,00;0,00 €
+20;2;1;"Total Net";6,00;95,40 €
+21;2;1;" dont Ventes";6,00;95,40 €
+22;2;1;"Total Modification Note";1,00;15,90 €
+23;0;0;"";0,00;0,00 €
+24;1;1;"PLAT CARPA CHEVRE";0,00;0,00 €
+25;2;1;"Total Net";14,00;250,60 €
+26;2;1;" dont Ventes";14,00;250,60 €
+27;2;1;"Total Avoir Ticket";1,00;17,90 €
+28;2;1;"Total Modification Note";1,00;17,90 €
+29;0;0;"";0,00;0,00 €
+30;1;1;"SUPP GRANA PADANO";0,00;0,00 €
+31;2;1;"Total Net";4,00;4,00 €
+32;2;1;" dont Ventes";4,00;4,00 €
+33;0;0;"";0,00;0,00 €
+34;4;0;"Net CARPACCIOS PLATS";49,00;828,75 €
+35;4;0;" dont Ventes";49,00;828,75 €
+36;4;0;"Perte";1,00;19,15 €
+37;4;0;"Avoir Ticket";3,00;56,20 €
+38;4;0;"Modification Note";5,00;91,25 €
+39;0;0;"";0,00;0,00 €
+40;1;0;"DESSERTS";0,00;0,00 €
+41;1;1;"CAFE DOUCEUR M";0,00;0,00 €
+42;2;1;"Total Net";28,00;0,00 €
+43;2;1;"Total Brut";38,00;0,00 €
+44;2;1;" dont Ventes";1,00;0,00 €
+45;2;1;" dont Menus";27,00;0,00 €
+46;2;1;" dont Offert Client";10,00;0,00 €
+47;2;1;"Total Modification Note";28,00;0,00 €
+48;0;0;"";0,00;0,00 €
+49;1;1;"CAFE PLAISIR";0,00;0,00 €
+50;2;1;"Total Net";4,00;18,80 €
+51;2;1;" dont Ventes";4,00;18,80 €
+52;0;0;"";0,00;0,00 €
+53;1;1;"CARAMEL BEURRE SALE";0,00;0,00 €
+54;2;1;"Total Modification Note";6,00;0,00 €
+55;0;0;"";0,00;0,00 €
+56;1;1;"CHANTILLY.";0,00;0,00 €
+57;2;1;"Total Erreur de saisie";1,00;0,00 €
+58;2;1;"Total Avoir Ticket";1,00;0,00 €
+59;2;1;"Total Modification Note";10,00;0,00 €
+60;0;0;"";0,00;0,00 €
+61;1;1;"COEUR COULANT CHOCO M";0,00;0,00 €
+62;2;1;"Total Net";1,00;2,90 €
+63;2;1;" dont Menus";1,00;2,90 €
+64;0;0;"";0,00;0,00 €
+65;1;1;"CREME BRULEE M";0,00;0,00 €
+66;2;1;"Total Net";3,00;8,70 €
+67;2;1;" dont Menus";3,00;8,70 €
+68;2;1;"Total Modification Note";1,00;2,90 €
+69;0;0;"";0,00;0,00 €
+70;1;1;"DESSERT DU JOUR";0,00;0,00 €
+71;2;1;"Total Net";1,00;0,00 €
+72;2;1;" dont Menus";1,00;0,00 €
+73;2;1;"Total Avoir Ticket";1,00;0,00 €
+74;0;0;"";0,00;0,00 €
+75;1;1;"DUO VERRINES DESSERTS";0,00;0,00 €
+76;2;1;"Total Net";21,00;0,00 €
+77;2;1;" dont Menus";21,00;0,00 €
+78;2;1;"Total Annulations";1,00;0,00 €
+79;2;1;"Total Avoir Ticket";1,00;0,00 €
+80;2;1;"Total Modification Note";4,00;0,00 €
+81;0;0;"";0,00;0,00 €
+82;1;1;"ENFANT VER. TIRAMISU";0,00;0,00 €
+83;2;1;"Total Net";15,00;0,00 €
+84;2;1;" dont Menus";15,00;0,00 €
+85;2;1;"Total Avoir Ticket";1,00;0,00 €
+86;2;1;"Total Modification Note";3,00;0,00 €
+87;0;0;"";0,00;0,00 €
+88;1;1;"GAUFRE BRUXELLES M";0,00;0,00 €
+89;2;1;"Total Net";1,00;2,90 €
+90;2;1;" dont Menus";1,00;2,90 €
+91;0;0;"";0,00;0,00 €
+92;1;1;"GOURMAND CAFE";0,00;0,00 €
+93;2;1;"Total Net";71,00;574,00 €
+94;2;1;" dont Ventes";70,00;574,00 €
+95;2;1;" dont Menus";1,00;0,00 €
+96;2;1;"Total Annulations";1,00;8,20 €
+97;2;1;"Total Erreur de saisie";7,00;57,40 €
+98;2;1;"Total Avoir Ticket";2,00;16,40 €
+99;2;1;"Total Modification Note";9,00;73,80 €
+100;0;0;"";0,00;0,00 €
+101;1;1;"GOURMAND DECA";0,00;0,00 €
+102;2;1;"Total Net";3,00;24,60 €
+103;2;1;" dont Ventes";3,00;24,60 €
+104;0;0;"";0,00;0,00 €
+105;1;1;"GOURMAND THE";0,00;0,00 €
+106;2;1;"Total Net";3,00;24,60 €
+107;2;1;" dont Ventes";3,00;24,60 €
+108;2;1;"Total Erreur de saisie";1,00;8,20 €
+109;2;1;"Total Modification Note";1,00;8,20 €
+110;0;0;"";0,00;0,00 €
+111;1;1;"NUTELLA";0,00;0,00 €
+112;2;1;"Total Avoir Ticket";1,00;0,00 €
+113;2;1;"Total Modification Note";5,00;0,00 €
+114;0;0;"";0,00;0,00 €
+115;1;1;"P TIT POMME";0,00;0,00 €
+116;2;1;"Total Net";14,00;0,00 €
+117;2;1;" dont Menus";14,00;0,00 €
+118;2;1;"Total Avoir Ticket";3,00;0,00 €
+119;2;1;"Total Modification Note";1,00;0,00 €
+120;0;0;"";0,00;0,00 €
+121;1;1;"PANNA COTTA";0,00;0,00 €
+122;2;1;"Total Net";23,00;135,70 €
+123;2;1;" dont Ventes";23,00;135,70 €
+124;2;1;"Total Annulations";1,00;5,90 €
+125;2;1;"Total Avoir Ticket";2,00;11,80 €
+126;2;1;"Total Modification Note";7,00;41,30 €
+127;0;0;"";0,00;0,00 €
+128;1;1;"POT PANNA COTTA M";0,00;0,00 €
+129;2;1;"Total Net";9,00;0,00 €
+130;2;1;" dont Menus";9,00;0,00 €
+131;2;1;"Total Avoir Ticket";1,00;0,00 €
+132;2;1;"Total Modification Note";1,00;0,00 €
+133;0;0;"";0,00;0,00 €
+134;1;1;"PROFITEROLES M";0,00;0,00 €
+135;2;1;"Total Net";4,00;11,60 €
+136;2;1;" dont Menus";4,00;11,60 €
+137;2;1;"Total Avoir Ticket";1,00;2,90 €
+138;0;0;"";0,00;0,00 €
+139;1;1;"SUG DESSERT";0,00;0,00 €
+140;2;1;"Total Net";1,00;3,50 €
+141;2;1;" dont Ventes";1,00;3,50 €
+142;0;0;"";0,00;0,00 €
+143;1;1;"TARTELETTE NOISETTES NUTELLA M";0,00;0,00 €
+144;2;1;"Total Net";1,00;2,90 €
+145;2;1;" dont Menus";1,00;2,90 €
+146;0;0;"";0,00;0,00 €
+147;1;1;"TIRAMISU M";0,00;0,00 €
+148;2;1;"Total Net";1,00;2,90 €
+149;2;1;" dont Menus";1,00;2,90 €
+150;0;0;"";0,00;0,00 €
+151;1;1;"VER. PANA COTTA";0,00;0,00 €
+152;2;1;"Total Net";21,00;0,00 €
+153;2;1;" dont Ventes";21,00;0,00 €
+154;2;1;"Total Annulations";1,00;0,00 €
+155;2;1;"Total Avoir Ticket";1,00;0,00 €
+156;2;1;"Total Modification Note";4,00;0,00 €
+157;0;0;"";0,00;0,00 €
+158;1;1;"VER. TIRAMISU";0,00;0,00 €
+159;2;1;"Total Net";21,00;0,00 €
+160;2;1;" dont Ventes";21,00;0,00 €
+161;2;1;"Total Annulations";1,00;0,00 €
+162;2;1;"Total Avoir Ticket";1,00;0,00 €
+163;2;1;"Total Modification Note";4,00;0,00 €
+164;0;0;"";0,00;0,00 €
+165;1;1;"YAOURT A BOIRE";0,00;0,00 €
+166;2;1;"Total Net";17,00;0,00 €
+167;2;1;" dont Menus";17,00;0,00 €
+168;2;1;"Total Modification Note";3,00;0,00 €
+169;0;0;"";0,00;0,00 €
+170;4;0;"Net DESSERTS";263,00;813,10 €
+171;4;0;"Brut DESSERTS";273,00;813,10 €
+172;4;0;" dont Ventes";147,00;781,20 €
+173;4;0;" dont Menus";116,00;31,90 €
+174;4;0;" dont Offert Client";10,00;0,00 €
+175;4;0;"Annulations";5,00;14,10 €
+176;4;0;"Erreur de saisie";9,00;65,60 €
+177;4;0;"Avoir Ticket";16,00;31,10 €
+178;4;0;"Modification Note";87,00;126,20 €
+179;0;0;"";0,00;0,00 €
+180;1;0;"DESSERTS PROMO";0,00;0,00 €
+181;1;1;"1/2 ST MARCELLIN";0,00;0,00 €
+182;2;1;"Total Net";5,00;23,04 €
+183;2;1;"Total Brut";5,00;24,00 €
+184;2;1;" dont Ventes";3,00;23,04 €
+185;2;1;" dont Remises";2,00;0,96 €
+186;2;1;"Total Modification Note";3,00;14,40 €
+187;0;0;"";0,00;0,00 €
+188;1;1;"COEUR COULANT CHOCO";0,00;0,00 €
+189;2;1;"Total Net";20,00;143,00 €
+190;2;1;"Total Brut";21,00;150,15 €
+191;2;1;" dont Ventes";20,00;143,00 €
+192;2;1;" dont Offert Direction";1,00;7,15 €
+193;2;1;"Total Modification Note";2,00;14,30 €
+194;0;0;"";0,00;0,00 €
+195;1;1;"CPE 1 BOULE";0,00;0,00 €
+196;2;1;"Total Net";52,00;31,00 €
+197;2;1;" dont Ventes";10,00;31,00 €
+198;2;1;" dont Menus";42,00;0,00 €
+199;2;1;"Total Annulations";1,00;3,10 €
+200;2;1;"Total Erreur de saisie";1,00;3,10 €
+201;2;1;"Total Avoir Ticket";1,00;0,00 €
+202;2;1;"Total Modification Note";11,00;15,50 €
+203;0;0;"";0,00;0,00 €
+204;1;1;"CPE 2 BOULES";0,00;0,00 €
+205;2;1;"Total Net";45,00;146,62 €
+206;2;1;"Total Brut";45,00;150,80 €
+207;2;1;" dont Ventes";26,00;146,62 €
+208;2;1;" dont Menus";16,00;0,00 €
+209;2;1;" dont Remises";3,00;4,18 €
+210;2;1;"Total Erreur de saisie";1,00;5,20 €
+211;2;1;"Total Modification Note";11,00;31,20 €
+212;0;0;"";0,00;0,00 €
+213;1;1;"CPE CAFE LIEGEOIS";0,00;0,00 €
+214;2;1;"Total Net";9,00;66,60 €
+215;2;1;" dont Ventes";9,00;66,60 €
+216;2;1;"Total Erreur de saisie";1,00;7,40 €
+217;2;1;"Total Modification Note";2,00;14,80 €
+218;0;0;"";0,00;0,00 €
+219;1;1;"CPE CARAMEL LIEGEOIS";0,00;0,00 €
+220;2;1;"Total Net";4,00;29,60 €
+221;2;1;" dont Ventes";4,00;29,60 €
+222;2;1;"Total Modification Note";1,00;7,40 €
+223;0;0;"";0,00;0,00 €
+224;1;1;"CPE CHOCO LIEGEOIS";0,00;0,00 €
+225;2;1;"Total Net";14,00;103,60 €
+226;2;1;" dont Ventes";14,00;103,60 €
+227;2;1;"Total Modification Note";4,00;29,60 €
+228;0;0;"";0,00;0,00 €
+229;1;1;"CPE FRUITS RGE LIEGEOIS";0,00;0,00 €
+230;2;1;"Total Net";2,00;14,80 €
+231;2;1;" dont Ventes";2,00;14,80 €
+232;0;0;"";0,00;0,00 €
+233;1;1;"CPE PECHE MELBA";0,00;0,00 €
+234;2;1;"Total Net";11,00;70,00 €
+235;2;1;"Total Brut";12,00;77,00 €
+236;2;1;" dont Ventes";10,00;70,00 €
+237;2;1;" dont Menus";1,00;0,00 €
+238;2;1;" dont Offert Client";1,00;7,00 €
+239;2;1;"Total Erreur de saisie";1,00;7,00 €
+240;2;1;"Total Modification Note";2,00;7,00 €
+241;0;0;"";0,00;0,00 €
+242;1;1;"CPE POM CORN";0,00;0,00 €
+243;2;1;"Total Net";14,00;103,60 €
+244;2;1;" dont Ventes";14,00;103,60 €
+245;2;1;"Total Annulations";2,00;14,80 €
+246;2;1;"Total Modification Note";1,00;7,40 €
+247;0;0;"";0,00;0,00 €
+248;1;1;"CPE TUTTI FRUTTI";0,00;0,00 €
+249;2;1;"Total Net";15,00;98,00 €
+250;2;1;" dont Ventes";14,00;98,00 €
+251;2;1;" dont Menus";1,00;0,00 €
+252;2;1;"Total Modification Note";1,00;7,00 €
+253;0;0;"";0,00;0,00 €
+254;1;1;"CREME BRULEE";0,00;0,00 €
+255;2;1;"Total Net";39,00;253,50 €
+256;2;1;"Total Brut";40,00;260,00 €
+257;2;1;" dont Ventes";39,00;253,50 €
+258;2;1;" dont Offert Client";1,00;6,50 €
+259;2;1;"Total Modification Note";8,00;52,00 €
+260;0;0;"";0,00;0,00 €
+261;1;1;"DAME BLANCHE";0,00;0,00 €
+262;2;1;"Total Net";7,00;51,80 €
+263;2;1;" dont Ventes";7,00;51,80 €
+264;2;1;"Total Avoir Ticket";1,00;7,40 €
+265;2;1;"Total Modification Note";1,00;7,40 €
+266;0;0;"";0,00;0,00 €
+267;1;1;"GAUFRE BRUXELLES";0,00;0,00 €
+268;2;1;"Total Net";23,00;136,26 €
+269;2;1;"Total Brut";24,00;142,80 €
+270;2;1;" dont Ventes";22,00;136,26 €
+271;2;1;" dont Remises";1,00;0,59 €
+272;2;1;" dont Offert Direction";1,00;5,95 €
+273;2;1;"Total Annulations";1,00;5,95 €
+274;2;1;"Total Avoir Ticket";1,00;5,95 €
+275;2;1;"Total Modification Note";6,00;35,70 €
+276;0;0;"";0,00;0,00 €
+277;1;1;"MILLEFEUILLE NUTELLA";0,00;0,00 €
+278;2;1;"Total Net";29,00;0,00 €
+279;2;1;" dont Menus";29,00;0,00 €
+280;2;1;"Total Avoir Ticket";1,00;0,00 €
+281;2;1;"Total Modification Note";5,00;0,00 €
+282;0;0;"";0,00;0,00 €
+283;1;1;"PL ST-MARCELLIN OSSAU IRATY";0,00;0,00 €
+284;2;1;"Total Net";4,00;27,80 €
+285;2;1;" dont Ventes";4,00;27,80 €
+286;2;1;"Total Annulations";1,00;6,95 €
+287;2;1;"Total Modification Note";2,00;13,90 €
+288;0;0;"";0,00;0,00 €
+289;1;1;"PROFITEROLES";0,00;0,00 €
+290;2;1;"Total Net";33,00;250,97 €
+291;2;1;"Total Brut";33,00;253,50 €
+292;2;1;" dont Ventes";29,00;250,97 €
+293;2;1;" dont Menus";3,00;0,00 €
+294;2;1;" dont Remises";1,00;2,53 €
+295;2;1;"Total Annulations";3,00;25,35 €
+296;2;1;"Total Avoir Ticket";1,00;8,45 €
+297;2;1;"Total Modification Note";5,00;42,25 €
+298;0;0;"";0,00;0,00 €
+299;1;1;"TARTELETTE NOISETTES NUTELLA";0,00;0,00 €
+300;2;1;"Total Net";13,00;89,70 €
+301;2;1;" dont Ventes";13,00;89,70 €
+302;0;0;"";0,00;0,00 €
+303;1;1;"TIRAMISU LA BOUCHERIE";0,00;0,00 €
+304;2;1;"Total Net";70,00;485,28 €
+305;2;1;"Total Brut";70,00;489,60 €
+306;2;1;" dont Ventes";66,00;485,28 €
+307;2;1;" dont Menus";2,00;0,00 €
+308;2;1;" dont Remises";2,00;4,32 €
+309;2;1;"Total Avoir Ticket";1,00;7,20 €
+310;2;1;"Total Modification Note";17,00;108,00 €
+311;0;0;"";0,00;0,00 €
+312;4;0;"Net DESSERTS PROMO";409,00;2125,17 €
+313;4;0;"Brut DESSERTS PROMO";413,00;2164,35 €
+314;4;0;" dont Ventes";306,00;2125,17 €
+315;4;0;" dont Menus";94,00;0,00 €
+316;4;0;" dont Remises";9,00;12,58 €
+317;4;0;" dont Offert Client";2,00;13,50 €
+318;4;0;" dont Offert Direction";2,00;13,10 €
+319;4;0;"Annulations";8,00;56,15 €
+320;4;0;"Erreur de saisie";4,00;22,70 €
+321;4;0;"Avoir Ticket";6,00;29,00 €
+322;4;0;"Modification Note";82,00;407,85 €
+323;0;0;"";0,00;0,00 €
+324;1;0;"DESSERTS VAE";0,00;0,00 €
+325;1;1;"TIRAMISU VAE";0,00;0,00 €
+326;2;1;"Total Net";1,00;5,50 €
+327;2;1;" dont Ventes";1,00;5,50 €
+328;2;1;"Total Modification Note";1,00;5,50 €
+329;0;0;"";0,00;0,00 €
+330;4;0;"Net DESSERTS VAE";1,00;5,50 €
+331;4;0;" dont Ventes";1,00;5,50 €
+332;4;0;"Modification Note";1,00;5,50 €
+333;0;0;"";0,00;0,00 €
+334;1;0;"ENTREES";0,00;0,00 €
+335;1;1;"DUO DE PLANCHETTES";0,00;0,00 €
+336;2;1;"Total Net";12,00;205,85 €
+337;2;1;"Total Brut";13,00;232,70 €
+338;2;1;" dont Ventes";10,00;205,85 €
+339;2;1;" dont Remises";2,00;8,95 €
+340;2;1;" dont Offert Client";1,00;17,90 €
+341;2;1;"Total Modification Note";2,00;35,80 €
+342;0;0;"";0,00;0,00 €
+343;1;1;"ENTREE DU JOUR 2.50€";0,00;0,00 €
+344;2;1;"Total Net";2,00;5,00 €
+345;2;1;" dont Menus";2,00;5,00 €
+346;0;0;"";0,00;0,00 €
+347;1;1;"PLANCH. CROQ APERO";0,00;0,00 €
+348;2;1;"Total Net";12,00;115,20 €
+349;2;1;" dont Ventes";12,00;115,20 €
+350;2;1;"Total Modification Note";3,00;28,80 €
+351;0;0;"";0,00;0,00 €
+352;1;1;"PLANCH. FROMAGERE";0,00;0,00 €
+353;2;1;"Total Net";9,00;89,55 €
+354;2;1;" dont Ventes";9,00;89,55 €
+355;2;1;"Total Avoir Ticket";1,00;9,95 €
+356;2;1;"Total Modification Note";1,00;9,95 €
+357;0;0;"";0,00;0,00 €
+358;1;1;"PLANCH. TRADITIONNELLE";0,00;0,00 €
+359;2;1;"Total Net";31,00;308,45 €
+360;2;1;"Total Brut";32,00;318,40 €
+361;2;1;" dont Ventes";31,00;308,45 €
+362;2;1;" dont Offert Client";1,00;9,95 €
+363;2;1;"Total Erreur de saisie";1,00;9,95 €
+364;2;1;"Total Avoir Ticket";1,00;9,95 €
+365;2;1;"Total Modification Note";13,00;129,35 €
+366;0;0;"";0,00;0,00 €
+367;1;1;"SAUMON MARINE";0,00;0,00 €
+368;2;1;"Total Net";10,00;68,00 €
+369;2;1;" dont Ventes";8,00;68,00 €
+370;2;1;" dont Menus";2,00;0,00 €
+371;2;1;"Total Modification Note";3,00;8,50 €
+372;0;0;"";0,00;0,00 €
+373;1;1;"TERRINE FOIES VOLAILLE";0,00;0,00 €
+374;2;1;"Total Net";23,00;69,30 €
+375;2;1;" dont Ventes";11,00;69,30 €
+376;2;1;" dont Menus";12,00;0,00 €
+377;2;1;"Total Modification Note";5,00;18,90 €
+378;0;0;"";0,00;0,00 €
+379;1;1;"TRIO DE PLANCHETTES";0,00;0,00 €
+380;2;1;"Total Net";2,00;53,20 €
+381;2;1;" dont Ventes";2,00;53,20 €
+382;0;0;"";0,00;0,00 €
+383;4;0;"Net ENTREES";101,00;914,55 €
+384;4;0;"Brut ENTREES";103,00;951,35 €
+385;4;0;" dont Ventes";83,00;909,55 €
+386;4;0;" dont Menus";16,00;5,00 €
+387;4;0;" dont Remises";2,00;8,95 €
+388;4;0;" dont Offert Client";2,00;27,85 €
+389;4;0;"Erreur de saisie";1,00;9,95 €
+390;4;0;"Avoir Ticket";2,00;19,90 €
+391;4;0;"Modification Note";27,00;231,30 €
+392;0;0;"";0,00;0,00 €
+393;1;0;"ENTREES FOIE GRAS LAYON TVA_C";0,00;0,00 €
+394;1;1;"BLOC FOIE GRAS";0,00;0,00 €
+395;2;1;"Total Net";15,00;127,33 €
+396;2;1;"Total Brut";15,00;130,90 €
+397;2;1;" dont Ventes";10,00;127,33 €
+398;2;1;" dont Menus";4,00;0,00 €
+399;2;1;" dont Remises";1,00;3,57 €
+400;2;1;"Total Modification Note";4,00;35,70 €
+401;0;0;"";0,00;0,00 €
+402;1;1;"BLOC FOIE GRAS M";0,00;0,00 €
+403;2;1;"Total Net";15,00;48,64 €
+404;2;1;"Total Brut";15,00;49,40 €
+405;2;1;" dont Menus";13,00;48,64 €
+406;2;1;" dont Remises";2,00;0,76 €
+407;2;1;"Total Modification Note";5,00;19,00 €
+408;0;0;"";0,00;0,00 €
+409;4;0;"Net ENTREES FOIE GRAS LAYON TVA_C";30,00;175,97 €
+410;4;0;"Brut ENTREES FOIE GRAS LAYON TVA_C";30,00;180,30 €
+411;4;0;" dont Ventes";10,00;127,33 €
+412;4;0;" dont Menus";17,00;48,64 €
+413;4;0;" dont Remises";3,00;4,33 €
+414;4;0;"Modification Note";9,00;54,70 €
+415;0;0;"";0,00;0,00 €
+416;1;0;"GLACES";0,00;0,00 €
+417;1;1;"CPE 2 BOULES M.";0,00;0,00 €
+418;2;1;"Total Net";4,00;0,00 €
+419;2;1;" dont Menus";4,00;0,00 €
+420;2;1;"Total Modification Note";3,00;0,00 €
+421;0;0;"";0,00;0,00 €
+422;1;1;"SUPP BOULE VANILLE";0,00;0,00 €
+423;2;1;"Total Brut";1,00;1,50 €
+424;2;1;" dont Offert Direction";1,00;1,50 €
+425;2;1;"Total Modification Note";1,00;1,50 €
+426;0;0;"";0,00;0,00 €
+427;1;1;"SUPP CARAMEL";0,00;0,00 €
+428;2;1;"Total Erreur de saisie";2,00;0,00 €
+429;0;0;"";0,00;0,00 €
+430;1;1;"SUPP CHANTILLY";0,00;0,00 €
+431;2;1;"Total Net";5,00;0,00 €
+432;2;1;"Total Brut";7,00;0,00 €
+433;2;1;" dont Ventes";5,00;0,00 €
+434;2;1;" dont Offert Direction";2,00;0,00 €
+435;2;1;"Total Modification Note";2,00;0,00 €
+436;0;0;"";0,00;0,00 €
+437;4;0;"Net GLACES";9,00;0,00 €
+438;4;0;"Brut GLACES";12,00;1,50 €
+439;4;0;" dont Ventes";5,00;0,00 €
+440;4;0;" dont Menus";4,00;0,00 €
+441;4;0;" dont Offert Direction";3,00;1,50 €
+442;4;0;"Erreur de saisie";2,00;0,00 €
+443;4;0;"Modification Note";6,00;1,50 €
+444;0;0;"";0,00;0,00 €
+445;1;0;"MENU VAE TVA_C";0,00;0,00 €
+446;1;1;"FORMULE CLASSIQUES BURGERS VAE";0,00;0,00 €
+447;2;1;"Total Erreur de saisie";4,00;63,60 €
+448;0;0;"";0,00;0,00 €
+449;1;1;"FORMULE GOURMETS BURGERS VAE";0,00;0,00 €
+450;2;1;"Total Erreur de saisie";1,00;17,90 €
+451;0;0;"";0,00;0,00 €
+452;4;0;"Erreur de saisie";5,00;81,50 €
+453;0;0;"";0,00;0,00 €
+454;1;0;"MENUS";0,00;0,00 €
+455;1;1;"F. BONNE AFFAIRE";0,00;0,00 €
+456;2;1;"Total Net";40,00;556,00 €
+457;2;1;"Total Brut";50,00;695,00 €
+458;2;1;" dont Ventes";40,00;556,00 €
+459;2;1;" dont Offert Client";10,00;139,00 €
+460;2;1;"Total Avoir Ticket";1,00;13,90 €
+461;2;1;"Total Modification Note";41,00;569,90 €
+462;0;0;"";0,00;0,00 €
+463;1;1;"F. COMPLETE";0,00;0,00 €
+464;2;1;"Total Net";35,00;784,00 €
+465;2;1;" dont Ventes";35,00;784,00 €
+466;2;1;"Total Avoir Ticket";1,00;22,40 €
+467;2;1;"Total Modification Note";3,00;67,20 €
+468;0;0;"";0,00;0,00 €
+469;1;1;"F. DESSERT";0,00;0,00 €
+470;2;1;"Total Net";3,00;13,80 €
+471;2;1;" dont Ventes";3,00;13,80 €
+472;2;1;"Total Modification Note";1,00;4,60 €
+473;0;0;"";0,00;0,00 €
+474;1;1;"F. DU GRILLADIN SANS ALCOOL";0,00;0,00 €
+475;2;1;"Total Net";3,00;38,10 €
+476;2;1;" dont Ventes";3,00;38,10 €
+477;0;0;"";0,00;0,00 €
+478;1;1;"F. ENFANTS";0,00;0,00 €
+479;2;1;"Total Net";95,00;617,76 €
+480;2;1;"Total Brut";95,00;627,00 €
+481;2;1;" dont Ventes";87,00;617,76 €
+482;2;1;" dont Remises";8,00;9,24 €
+483;2;1;"Total Avoir Ticket";5,00;33,00 €
+484;2;1;"Total Modification Note";16,00;105,60 €
+485;0;0;"";0,00;0,00 €
+486;1;1;"F. GOURMANDE";0,00;0,00 €
+487;2;1;"Total Net";13,00;404,48 €
+488;2;1;"Total Brut";13,00;410,80 €
+489;2;1;" dont Ventes";12,00;404,48 €
+490;2;1;" dont Remises";1,00;6,32 €
+491;2;1;"Total Modification Note";9,00;284,40 €
+492;0;0;"";0,00;0,00 €
+493;1;1;"F. HALLES E+P";0,00;0,00 €
+494;2;1;"Total Net";35,00;619,44 €
+495;2;1;"Total Brut";35,00;623,00 €
+496;2;1;" dont Ventes";33,00;619,44 €
+497;2;1;" dont Remises";2,00;3,56 €
+498;2;1;"Total Modification Note";7,00;124,60 €
+499;0;0;"";0,00;0,00 €
+500;1;1;"F. HALLES P+D";0,00;0,00 €
+501;2;1;"Total Net";47,00;833,04 €
+502;2;1;"Total Brut";47,00;836,60 €
+503;2;1;" dont Ventes";45,00;833,04 €
+504;2;1;" dont Remises";2,00;3,56 €
+505;2;1;"Total Annulations";3,00;53,40 €
+506;2;1;"Total Avoir Ticket";3,00;53,40 €
+507;2;1;"Total Modification Note";14,00;249,20 €
+508;0;0;"";0,00;0,00 €
+509;4;0;"Net MENUS";271,00;3866,62 €
+510;4;0;"Brut MENUS";281,00;4028,30 €
+511;4;0;" dont Ventes";258,00;3866,62 €
+512;4;0;" dont Remises";13,00;22,68 €
+513;4;0;" dont Offert Client";10,00;139,00 €
+514;4;0;"Annulations";3,00;53,40 €
+515;4;0;"Avoir Ticket";10,00;122,70 €
+516;4;0;"Modification Note";91,00;1405,50 €
+517;0;0;"";0,00;0,00 €
+518;1;0;"PLATS TERROIRS";0,00;0,00 €
+519;1;1;"ANDOUILLETTE";0,00;0,00 €
+520;2;1;"Total Net";22,00;345,40 €
+521;2;1;" dont Ventes";22,00;345,40 €
+522;2;1;"Total Erreur de saisie";1,00;15,70 €
+523;2;1;"Total Modification Note";2,00;31,40 €
+524;0;0;"";0,00;0,00 €
+525;1;1;"DOUBLE FILET BAR";0,00;0,00 €
+526;2;1;"Total Net";5,00;95,50 €
+527;2;1;" dont Ventes";5,00;95,50 €
+528;2;1;"Total Avoir Ticket";1,00;19,10 €
+529;2;1;"Total Modification Note";1,00;19,10 €
+530;0;0;"";0,00;0,00 €
+531;1;1;"ENFANT POULET CROUSTILLANT";0,00;0,00 €
+532;2;1;"Total Net";36,00;0,00 €
+533;2;1;" dont Menus";36,00;0,00 €
+534;2;1;"Total Avoir Ticket";1,00;0,00 €
+535;2;1;"Total Modification Note";8,00;0,00 €
+536;0;0;"";0,00;0,00 €
+537;1;1;"JAMBON GRILLE";0,00;0,00 €
+538;2;1;"Total Net";15,00;116,80 €
+539;2;1;"Total Brut";16,00;116,80 €
+540;2;1;" dont Ventes";8,00;116,80 €
+541;2;1;" dont Menus";7,00;0,00 €
+542;2;1;" dont Offert Client";1,00;0,00 €
+543;2;1;"Total Erreur de saisie";1,00;14,60 €
+544;2;1;"Total Modification Note";7,00;0,00 €
+545;0;0;"";0,00;0,00 €
+546;1;1;"POULET CROUSTILLANT";0,00;0,00 €
+547;2;1;"Total Net";4,00;0,00 €
+548;2;1;"Total Brut";7,00;0,00 €
+549;2;1;" dont Menus";4,00;0,00 €
+550;2;1;" dont Offert Client";3,00;0,00 €
+551;2;1;"Total Modification Note";9,00;0,00 €
+552;0;0;"";0,00;0,00 €
+553;1;1;"POULET OLIVES CITRONS";0,00;0,00 €
+554;2;1;"Total Net";18,00;282,31 €
+555;2;1;"Total Brut";18,00;287,10 €
+556;2;1;" dont Ventes";17,00;282,31 €
+557;2;1;" dont Remises";1,00;4,79 €
+558;2;1;"Total Erreur de saisie";1,00;15,95 €
+559;2;1;"Total Modification Note";3,00;47,85 €
+560;0;0;"";0,00;0,00 €
+561;1;1;"SUPP TATAKI BOEUF";0,00;0,00 €
+562;2;1;"Total Net";6,00;21,00 €
+563;2;1;" dont Ventes";6,00;21,00 €
+564;2;1;"Total Erreur de saisie";1,00;3,50 €
+565;2;1;"Total Modification Note";2,00;7,00 €
+566;0;0;"";0,00;0,00 €
+567;1;1;"SUPP TATAKI THON";0,00;0,00 €
+568;2;1;"Total Net";2,00;7,00 €
+569;2;1;" dont Ventes";2,00;7,00 €
+570;2;1;"Total Erreur de saisie";1,00;3,50 €
+571;0;0;"";0,00;0,00 €
+572;1;1;"TATAKI DE THON";0,00;0,00 €
+573;2;1;"Total Net";10,00;179,00 €
+574;2;1;" dont Ventes";10,00;179,00 €
+575;0;0;"";0,00;0,00 €
+576;4;0;"Net PLATS TERROIRS";118,00;1047,01 €
+577;4;0;"Brut PLATS TERROIRS";122,00;1051,80 €
+578;4;0;" dont Ventes";70,00;1047,01 €
+579;4;0;" dont Menus";47,00;0,00 €
+580;4;0;" dont Remises";1,00;4,79 €
+581;4;0;" dont Offert Client";4,00;0,00 €
+582;4;0;"Erreur de saisie";5,00;53,25 €
+583;4;0;"Avoir Ticket";2,00;19,10 €
+584;4;0;"Modification Note";32,00;105,35 €
+585;0;0;"";0,00;0,00 €
+586;1;0;"PLATS VAE";0,00;0,00 €
+587;1;1;"CLASSIC BURGER VAE";0,00;0,00 €
+588;2;1;"Total Net";3,00;36,30 €
+589;2;1;" dont Ventes";3,00;36,30 €
+590;2;1;"Total Erreur de saisie";1,00;12,10 €
+591;0;0;"";0,00;0,00 €
+592;1;1;"CLASSIC FRITES";0,00;0,00 €
+593;2;1;"Total Erreur de saisie";3,00;0,00 €
+594;0;0;"";0,00;0,00 €
+595;1;1;"ENFANT POULET CROUSTILLANT VAE";0,00;0,00 €
+596;2;1;"Total Net";1,00;0,00 €
+597;2;1;" dont Menus";1,00;0,00 €
+598;0;0;"";0,00;0,00 €
+599;1;1;"F. ENFANTS VAE";0,00;0,00 €
+600;2;1;"Total Net";1,00;5,50 €
+601;2;1;" dont Ventes";1,00;5,50 €
+602;0;0;"";0,00;0,00 €
+603;4;0;"Net PLATS VAE";5,00;41,80 €
+604;4;0;" dont Ventes";4,00;41,80 €
+605;4;0;" dont Menus";1,00;0,00 €
+606;4;0;"Erreur de saisie";4,00;12,10 €
+607;0;0;"";0,00;0,00 €
+608;1;0;"SALADES ENTREES";0,00;0,00 €
+609;1;1;"AVOCADO TOAST";0,00;0,00 €
+610;2;1;"Total Net";11,00;0,00 €
+611;2;1;" dont Menus";11,00;0,00 €
+612;2;1;"Total Modification Note";2,00;0,00 €
+613;0;0;"";0,00;0,00 €
+614;1;1;"PETITE CHEVRE LARD";0,00;0,00 €
+615;2;1;"Total Net";13,00;109,85 €
+616;2;1;" dont Ventes";13,00;109,85 €
+617;2;1;"Total Modification Note";1,00;8,45 €
+618;0;0;"";0,00;0,00 €
+619;1;1;"PETITE ST MARCELLIN MIEL";0,00;0,00 €
+620;2;1;"Total Net";34,00;0,00 €
+621;2;1;" dont Menus";34,00;0,00 €
+622;2;1;"Total Avoir Ticket";1,00;0,00 €
+623;2;1;"Total Modification Note";1,00;0,00 €
+624;0;0;"";0,00;0,00 €
+625;4;0;"Net SALADES ENTREES";58,00;109,85 €
+626;4;0;" dont Ventes";13,00;109,85 €
+627;4;0;" dont Menus";45,00;0,00 €
+628;4;0;"Avoir Ticket";1,00;0,00 €
+629;4;0;"Modification Note";4,00;8,45 €
+630;0;0;"";0,00;0,00 €
+631;1;0;"SALADES PLATS";0,00;0,00 €
+632;1;1;"GRANDE BUDDHA BOWL";0,00;0,00 €
+633;2;1;"Total Net";16,00;272,00 €
+634;2;1;" dont Ventes";16,00;272,00 €
+635;2;1;"Total Erreur de saisie";1,00;17,00 €
+636;2;1;"Total Modification Note";4,00;68,00 €
+637;0;0;"";0,00;0,00 €
+638;1;1;"GRANDE BURRATA";0,00;0,00 €
+639;2;1;"Total Net";19,00;359,10 €
+640;2;1;" dont Ventes";19,00;359,10 €
+641;2;1;"Total Annulations";1,00;18,90 €
+642;2;1;"Total Modification Note";4,00;75,60 €
+643;0;0;"";0,00;0,00 €
+644;1;1;"GRANDE CAESAR";0,00;0,00 €
+645;2;1;"Total Net";35,00;422,94 €
+646;2;1;"Total Brut";35,00;429,30 €
+647;2;1;" dont Ventes";25,00;422,94 €
+648;2;1;" dont Menus";8,00;0,00 €
+649;2;1;" dont Remises";2,00;6,36 €
+650;2;1;"Total Annulations";1,00;15,90 €
+651;2;1;"Total Erreur de saisie";1,00;15,90 €
+652;2;1;"Total Modification Note";4,00;47,70 €
+653;0;0;"";0,00;0,00 €
+654;1;1;"GRANDE CHEVRE LARD";0,00;0,00 €
+655;2;1;"Total Net";15,00;238,50 €
+656;2;1;" dont Ventes";15,00;238,50 €
+657;2;1;"Total Annulations";1,00;15,90 €
+658;2;1;"Total Modification Note";5,00;79,50 €
+659;0;0;"";0,00;0,00 €
+660;1;1;"GRANDE FESTIVAL";0,00;0,00 €
+661;2;1;"Total Net";22,00;387,63 €
+662;2;1;"Total Brut";23,00;407,10 €
+663;2;1;" dont Ventes";21,00;387,63 €
+664;2;1;" dont Remises";1,00;1,77 €
+665;2;1;" dont Offert Client";1,00;17,70 €
+666;2;1;"Total Modification Note";7,00;123,90 €
+667;0;0;"";0,00;0,00 €
+668;4;0;"Net SALADES PLATS";107,00;1680,17 €
+669;4;0;"Brut SALADES PLATS";108,00;1706,00 €
+670;4;0;" dont Ventes";96,00;1680,17 €
+671;4;0;" dont Menus";8,00;0,00 €
+672;4;0;" dont Remises";3,00;8,13 €
+673;4;0;" dont Offert Client";1,00;17,70 €
+674;4;0;"Annulations";3,00;50,70 €
+675;4;0;"Erreur de saisie";2,00;32,90 €
+676;4;0;"Modification Note";24,00;394,70 €
+677;0;0;"";0,00;0,00 €
+678;1;0;"SUGGESTIONS";0,00;0,00 €
+679;1;1;"FRITES A VOLONTE";0,00;0,00 €
+680;2;1;"Total Net";65,00;0,00 €
+681;2;1;" dont Ventes";65,00;0,00 €
+682;2;1;"Total Annulations";1,00;0,00 €
+683;2;1;"Total Avoir Ticket";1,00;0,00 €
+684;2;1;"Total Modification Note";12,00;0,00 €
+685;0;0;"";0,00;0,00 €
+686;1;1;"GARNITURES SUPPLEMENT";0,00;0,00 €
+687;2;1;"Total Net";78,00;156,00 €
+688;2;1;"Total Brut";80,00;160,00 €
+689;2;1;" dont Ventes";78,00;156,00 €
+690;2;1;" dont Offert Client";2,00;4,00 €
+691;2;1;"Total Erreur de saisie";1,00;2,00 €
+692;2;1;"Total Avoir Ticket";2,00;4,00 €
+693;2;1;"Total Modification Note";16,00;32,00 €
+694;0;0;"";0,00;0,00 €
+695;1;1;"PLAT DU JOUR 1";0,00;0,00 €
+696;2;1;"Total Net";30,00;147,20 €
+697;2;1;"Total Brut";31,00;149,50 €
+698;2;1;" dont Ventes";11,00;147,20 €
+699;2;1;" dont Menus";17,00;0,00 €
+700;2;1;" dont Remises";2,00;2,30 €
+701;2;1;" dont Offert Client";1,00;0,00 €
+702;2;1;"Total Annulations";1,00;11,50 €
+703;2;1;"Total Avoir Ticket";1,00;0,00 €
+704;2;1;"Total Modification Note";6,00;34,50 €
+705;0;0;"";0,00;0,00 €
+706;1;1;"PLAT DU JOUR 2";0,00;0,00 €
+707;2;1;"Total Net";6,00;11,50 €
+708;2;1;"Total Brut";11,00;11,50 €
+709;2;1;" dont Ventes";1,00;11,50 €
+710;2;1;" dont Menus";5,00;0,00 €
+711;2;1;" dont Offert Client";5,00;0,00 €
+712;2;1;"Total Annulations";1,00;11,50 €
+713;2;1;"Total Modification Note";11,00;0,00 €
+714;0;0;"";0,00;0,00 €
+715;1;1;"PTIT BURGER";0,00;0,00 €
+716;2;1;"Total Net";42,00;0,00 €
+717;2;1;" dont Menus";42,00;0,00 €
+718;2;1;"Total Avoir Ticket";3,00;0,00 €
+719;2;1;"Total Modification Note";5,00;0,00 €
+720;0;0;"";0,00;0,00 €
+721;1;1;"SUPP OEUF";0,00;0,00 €
+722;2;1;"Total Net";4,00;4,00 €
+723;2;1;" dont Ventes";4,00;4,00 €
+724;2;1;"Total Erreur de saisie";1,00;1,00 €
+725;2;1;"Total Avoir Ticket";1,00;1,00 €
+726;0;0;"";0,00;0,00 €
+727;4;0;"Net SUGGESTIONS";225,00;318,70 €
+728;4;0;"Brut SUGGESTIONS";233,00;325,00 €
+729;4;0;" dont Ventes";159,00;318,70 €
+730;4;0;" dont Menus";64,00;0,00 €
+731;4;0;" dont Remises";2,00;2,30 €
+732;4;0;" dont Offert Client";8,00;4,00 €
+733;4;0;"Annulations";3,00;23,00 €
+734;4;0;"Erreur de saisie";2,00;3,00 €
+735;4;0;"Avoir Ticket";8,00;5,00 €
+736;4;0;"Modification Note";50,00;66,50 €
+737;0;0;"";0,00;0,00 €
+738;1;0;"VIANDES";0,00;0,00 €
+739;1;1;"SCE BEARNAISE";0,00;0,00 €
+740;2;1;"Total Avoir Ticket";1,00;0,00 €
+741;2;1;"Total Modification Note";5,00;0,00 €
+742;0;0;"";0,00;0,00 €
+743;1;1;"SCE ECHALOTTES";0,00;0,00 €
+744;2;1;"Total Avoir Ticket";1,00;0,00 €
+745;2;1;"Total Modification Note";24,00;0,00 €
+746;0;0;"";0,00;0,00 €
+747;1;1;"SCE POIVRE";0,00;0,00 €
+748;2;1;"Total Erreur de saisie";2,00;0,00 €
+749;2;1;"Total Avoir Ticket";3,00;0,00 €
+750;2;1;"Total Modification Note";28,00;0,00 €
+751;0;0;"";0,00;0,00 €
+752;1;1;"SCE ROQUEFORT";0,00;0,00 €
+753;2;1;"Total Erreur de saisie";1,00;0,00 €
+754;2;1;"Total Avoir Ticket";1,00;0,00 €
+755;2;1;"Total Modification Note";38,00;0,00 €
+756;0;0;"";0,00;0,00 €
+757;4;0;"Erreur de saisie";3,00;0,00 €
+758;4;0;"Avoir Ticket";6,00;0,00 €
+759;4;0;"Modification Note";95,00;0,00 €
+760;0;0;"";0,00;0,00 €
+761;1;0;"HACHES HORS PROMO";0,00;0,00 €
+762;1;1;"HACHE 110GR";0,00;0,00 €
+763;2;1;"Total Net";7,00;76,30 €
+764;2;1;" dont Ventes";7,00;76,30 €
+765;2;1;"Total Modification Note";1,00;10,90 €
+766;0;0;"";0,00;0,00 €
+767;1;1;"HACHE 220GR";0,00;0,00 €
+768;2;1;"Total Net";6,00;88,80 €
+769;2;1;" dont Ventes";6,00;88,80 €
+770;2;1;"Total Avoir Ticket";1,00;14,80 €
+771;2;1;"Total Modification Note";1,00;14,80 €
+772;0;0;"";0,00;0,00 €
+773;1;1;"HACHE 330GR";0,00;0,00 €
+774;2;1;"Total Net";1,00;18,70 €
+775;2;1;" dont Ventes";1,00;18,70 €
+776;0;0;"";0,00;0,00 €
+777;1;1;"STEAK HACHE SCE POIVRE";0,00;0,00 €
+778;2;1;"Total Net";2,00;0,00 €
+779;2;1;" dont Menus";2,00;0,00 €
+780;0;0;"";0,00;0,00 €
+781;4;0;"Net HACHES HORS PROMO";16,00;183,80 €
+782;4;0;" dont Ventes";14,00;183,80 €
+783;4;0;" dont Menus";2,00;0,00 €
+784;4;0;"Avoir Ticket";1,00;14,80 €
+785;4;0;"Modification Note";2,00;25,70 €
+786;0;0;"";0,00;0,00 €
+787;1;0;"TARTARES HORS PROMO";0,00;0,00 €
+788;1;1;"TARPACCIO DOUBLE";0,00;0,00 €
+789;2;1;"Total Net";5,00;111,50 €
+790;2;1;" dont Ventes";5,00;111,50 €
+791;0;0;"";0,00;0,00 €
+792;1;1;"TARPACCIO SIMPLE";0,00;0,00 €
+793;2;1;"Total Net";8,00;143,20 €
+794;2;1;" dont Ventes";8,00;143,20 €
+795;2;1;"Total Modification Note";1,00;17,90 €
+796;0;0;"";0,00;0,00 €
+797;1;1;"TARTARE 110GR";0,00;0,00 €
+798;2;1;"Total Net";13,00;108,50 €
+799;2;1;" dont Ventes";7,00;108,50 €
+800;2;1;" dont Menus";6,00;0,00 €
+801;2;1;"Total Avoir Ticket";1,00;15,50 €
+802;0;0;"";0,00;0,00 €
+803;1;1;"TARTARE 220GR";0,00;0,00 €
+804;2;1;"Total Net";37,00;617,10 €
+805;2;1;" dont Ventes";33,00;617,10 €
+806;2;1;" dont Menus";4,00;0,00 €
+807;2;1;"Total Annulations";1,00;18,70 €
+808;2;1;"Total Avoir Ticket";1,00;18,70 €
+809;2;1;"Total Modification Note";7,00;93,50 €
+810;0;0;"";0,00;0,00 €
+811;1;1;"TARTARE 330GR";0,00;0,00 €
+812;2;1;"Total Net";8,00;175,20 €
+813;2;1;" dont Ventes";8,00;175,20 €
+814;0;0;"";0,00;0,00 €
+815;1;1;"TARTARE POELE 110GR";0,00;0,00 €
+816;2;1;"Total Net";2,00;31,00 €
+817;2;1;" dont Ventes";2,00;31,00 €
+818;0;0;"";0,00;0,00 €
+819;1;1;"TARTARE POELE 220GR";0,00;0,00 €
+820;2;1;"Total Net";4,00;74,80 €
+821;2;1;" dont Ventes";4,00;74,80 €
+822;2;1;"Total Modification Note";1,00;18,70 €
+823;0;0;"";0,00;0,00 €
+824;4;0;"Net TARTARES HORS PROMO";77,00;1261,30 €
+825;4;0;" dont Ventes";67,00;1261,30 €
+826;4;0;" dont Menus";10,00;0,00 €
+827;4;0;"Annulations";1,00;18,70 €
+828;4;0;"Avoir Ticket";2,00;34,20 €
+829;4;0;"Modification Note";9,00;130,10 €
+830;0;0;"";0,00;0,00 €
+831;1;0;"VIANDES HORS PROMO";0,00;0,00 €
+832;1;1;"ARAIGNEE 160GR";0,00;0,00 €
+833;2;1;"Total Net";28,00;527,31 €
+834;2;1;"Total Brut";28,00;529,20 €
+835;2;1;" dont Ventes";27,00;527,31 €
+836;2;1;" dont Remises";1,00;1,89 €
+837;2;1;"Total Modification Note";2,00;37,80 €
+838;0;0;"";0,00;0,00 €
+839;1;1;"ARAIGNEE 240GR";0,00;0,00 €
+840;2;1;"Total Net";6,00;140,40 €
+841;2;1;" dont Ventes";6,00;140,40 €
+842;2;1;"Total Erreur de saisie";1,00;23,40 €
+843;2;1;"Total Modification Note";2,00;46,80 €
+844;0;0;"";0,00;0,00 €
+845;1;1;"BAVETTE D'ALOYAU";0,00;0,00 €
+846;2;1;"Total Net";40,00;676,00 €
+847;2;1;"Total Brut";42,00;709,80 €
+848;2;1;" dont Ventes";40,00;676,00 €
+849;2;1;" dont Offert Client";1,00;16,90 €
+850;2;1;" dont Offert Direction";1,00;16,90 €
+851;2;1;"Total Avoir Ticket";2,00;33,80 €
+852;2;1;"Total Modification Note";7,00;118,30 €
+853;0;0;"";0,00;0,00 €
+854;1;1;"BROCH. CANARD PECHES";0,00;0,00 €
+855;2;1;"Total Net";19,00;355,32 €
+856;2;1;"Total Brut";19,00;359,10 €
+857;2;1;" dont Ventes";18,00;355,32 €
+858;2;1;" dont Remises";1,00;3,78 €
+859;2;1;"Total Annulations";3,00;56,70 €
+860;2;1;"Total Erreur de saisie";1,00;18,90 €
+861;2;1;"Total Modification Note";7,00;132,30 €
+862;0;0;"";0,00;0,00 €
+863;1;1;"BROCH. ONGLET";0,00;0,00 €
+864;2;1;"Total Net";11,00;194,70 €
+865;2;1;" dont Ventes";11,00;194,70 €
+866;2;1;"Total Modification Note";2,00;35,40 €
+867;0;0;"";0,00;0,00 €
+868;1;1;"CLASSIC BURGER";0,00;0,00 €
+869;2;1;"Total Net";19,00;277,40 €
+870;2;1;" dont Ventes";19,00;277,40 €
+871;2;1;"Total Avoir Ticket";2,00;29,20 €
+872;2;1;"Total Modification Note";3,00;43,80 €
+873;0;0;"";0,00;0,00 €
+874;1;1;"COTE 430GR";0,00;0,00 €
+875;2;1;"Total Net";37,00;1041,44 €
+876;2;1;"Total Brut";37,00;1047,10 €
+877;2;1;" dont Ventes";36,00;1041,44 €
+878;2;1;" dont Remises";1,00;5,66 €
+879;2;1;"Total Modification Note";5,00;141,50 €
+880;0;0;"";0,00;0,00 €
+881;1;1;"CROUSTI BURGER";0,00;0,00 €
+882;2;1;"Total Net";15,00;238,29 €
+883;2;1;"Total Brut";15,00;253,50 €
+884;2;1;" dont Ventes";12,00;238,29 €
+885;2;1;" dont Remises";3,00;15,21 €
+886;2;1;"Total Erreur de saisie";2,00;33,80 €
+887;2;1;"Total Modification Note";6,00;101,40 €
+888;0;0;"";0,00;0,00 €
+889;1;1;"DOUBLE CLASSIC BURGER";0,00;0,00 €
+890;2;1;"Total Net";10,00;176,00 €
+891;2;1;" dont Ventes";10,00;176,00 €
+892;2;1;"Total Erreur de saisie";1,00;17,60 €
+893;2;1;"Total Modification Note";1,00;17,60 €
+894;0;0;"";0,00;0,00 €
+895;1;1;"DOUBLE CROUSTI BURGER";0,00;0,00 €
+896;2;1;"Total Net";7,00;139,30 €
+897;2;1;" dont Ventes";7,00;139,30 €
+898;2;1;"Total Modification Note";1,00;19,90 €
+899;0;0;"";0,00;0,00 €
+900;1;1;"DOUBLE ESTIVAL BURGER";0,00;0,00 €
+901;2;1;"Total Net";2,00;39,80 €
+902;2;1;" dont Ventes";2,00;39,80 €
+903;0;0;"";0,00;0,00 €
+904;1;1;"DOUBLE MAQUIGNON";0,00;0,00 €
+905;2;1;"Total Net";6,00;105,02 €
+906;2;1;"Total Brut";6,00;106,80 €
+907;2;1;" dont Ventes";5,00;105,02 €
+908;2;1;" dont Remises";1,00;1,78 €
+909;2;1;"Total Erreur de saisie";2,00;35,60 €
+910;2;1;"Total Modification Note";3,00;53,40 €
+911;0;0;"";0,00;0,00 €
+912;1;1;"DOUBLE RUSTIQUE MAQ.";0,00;0,00 €
+913;2;1;"Total Net";13,00;258,70 €
+914;2;1;" dont Ventes";13,00;258,70 €
+915;2;1;"Total Modification Note";1,00;19,90 €
+916;0;0;"";0,00;0,00 €
+917;1;1;"EMINCE BOEUF MARINE";0,00;0,00 €
+918;2;1;"Total Net";19,00;279,72 €
+919;2;1;"Total Brut";19,00;281,20 €
+920;2;1;" dont Ventes";18,00;279,72 €
+921;2;1;" dont Remises";1,00;1,48 €
+922;2;1;"Total Avoir Ticket";1,00;14,80 €
+923;2;1;"Total Modification Note";3,00;44,40 €
+924;0;0;"";0,00;0,00 €
+925;1;1;"ENFANT COEUR ENTRECOTE";0,00;0,00 €
+926;2;1;"Total Net";17,00;0,00 €
+927;2;1;" dont Menus";17,00;0,00 €
+928;2;1;"Total Avoir Ticket";1,00;0,00 €
+929;2;1;"Total Modification Note";3,00;0,00 €
+930;0;0;"";0,00;0,00 €
+931;1;1;"ENTRECOTE 230GR";0,00;0,00 €
+932;2;1;"Total Net";53,00;1114,07 €
+933;2;1;"Total Brut";54,00;1139,40 €
+934;2;1;" dont Ventes";51,00;1114,07 €
+935;2;1;" dont Remises";2,00;4,23 €
+936;2;1;" dont Offert Direction";1,00;21,10 €
+937;2;1;"Total Avoir Ticket";1,00;21,10 €
+938;2;1;"Total Modification Note";4,00;84,40 €
+939;0;0;"";0,00;0,00 €
+940;1;1;"ENTRECOTE 300GR";0,00;0,00 €
+941;2;1;"Total Net";23,00;659,52 €
+942;2;1;"Total Brut";23,00;662,40 €
+943;2;1;" dont Ventes";22,00;659,52 €
+944;2;1;" dont Remises";1,00;2,88 €
+945;2;1;"Total Annulations";1,00;28,80 €
+946;2;1;"Total Modification Note";3,00;86,40 €
+947;0;0;"";0,00;0,00 €
+948;1;1;"ESTIVAL BURGER";0,00;0,00 €
+949;2;1;"Total Net";15,00;253,50 €
+950;2;1;" dont Ventes";15,00;253,50 €
+951;2;1;"Total Avoir Ticket";1,00;16,90 €
+952;2;1;"Total Modification Note";3,00;50,70 €
+953;0;0;"";0,00;0,00 €
+954;1;1;"GALETTE VEGETARIENNE";0,00;0,00 €
+955;2;1;"Total Net";1,00;1,00 €
+956;2;1;" dont Ventes";1,00;1,00 €
+957;2;1;"Total Erreur de saisie";7,00;7,00 €
+958;2;1;"Total Modification Note";1,00;1,00 €
+959;0;0;"";0,00;0,00 €
+960;1;1;"GRILLADE PORC";0,00;0,00 €
+961;2;1;"Total Net";1,00;0,00 €
+962;2;1;" dont Menus";1,00;0,00 €
+963;0;0;"";0,00;0,00 €
+964;1;1;"MAQUIGNON";0,00;0,00 €
+965;2;1;"Total Net";54,00;414,40 €
+966;2;1;" dont Ventes";28,00;414,40 €
+967;2;1;" dont Menus";26,00;0,00 €
+968;2;1;"Total Annulations";1,00;0,00 €
+969;2;1;"Total Avoir Ticket";3,00;29,60 €
+970;2;1;"Total Modification Note";16,00;103,60 €
+971;0;0;"";0,00;0,00 €
+972;1;1;"MILLEFEUILLE BOEUF";0,00;0,00 €
+973;2;1;"Total Net";32,00;586,45 €
+974;2;1;"Total Brut";32,00;592,00 €
+975;2;1;" dont Ventes";31,00;586,45 €
+976;2;1;" dont Remises";1,00;5,55 €
+977;2;1;"Total Modification Note";10,00;185,00 €
+978;0;0;"";0,00;0,00 €
+979;1;1;"ONGLET";0,00;0,00 €
+980;2;1;"Total Net";23,00;457,70 €
+981;2;1;"Total Brut";24,00;477,60 €
+982;2;1;" dont Ventes";23,00;457,70 €
+983;2;1;" dont Offert Client";1,00;19,90 €
+984;2;1;"Total Modification Note";5,00;99,50 €
+985;0;0;"";0,00;0,00 €
+986;1;1;"OS MOELLE SUPP.";0,00;0,00 €
+987;2;1;"Total Net";25,00;92,50 €
+988;2;1;" dont Ventes";25,00;92,50 €
+989;2;1;"Total Modification Note";2,00;7,40 €
+990;0;0;"";0,00;0,00 €
+991;1;1;"PANACHE DU BOUCHER";0,00;0,00 €
+992;2;1;"Total Net";76,00;1341,08 €
+993;2;1;"Total Brut";76,00;1341,60 €
+994;2;1;" dont Ventes";61,00;1268,80 €
+995;2;1;" dont Menus";14,00;72,28 €
+996;2;1;" dont Remises";1,00;0,52 €
+997;2;1;"Total Avoir Ticket";1,00;5,20 €
+998;2;1;"Total Modification Note";10,00;161,20 €
+999;0;0;"";0,00;0,00 €
+1000;1;1;"PAVE RUMSTECK";0,00;0,00 €
+1001;2;1;"Total Net";30,00;415,91 €
+1002;2;1;"Total Brut";31,00;437,80 €
+1003;2;1;" dont Ventes";20,00;415,91 €
+1004;2;1;" dont Menus";9,00;0,00 €
+1005;2;1;" dont Remises";1,00;1,99 €
+1006;2;1;" dont Offert Client";1,00;19,90 €
+1007;2;1;"Total Perte";1,00;19,90 €
+1008;2;1;"Total Modification Note";19,00;238,80 €
+1009;0;0;"";0,00;0,00 €
+1010;1;1;"RUSTIQUE MAQUI.";0,00;0,00 €
+1011;2;1;"Total Net";30,00;505,31 €
+1012;2;1;"Total Brut";30,00;507,00 €
+1013;2;1;" dont Ventes";29,00;505,31 €
+1014;2;1;" dont Remises";1,00;1,69 €
+1015;2;1;"Total Annulations";1,00;16,90 €
+1016;2;1;"Total Avoir Ticket";1,00;16,90 €
+1017;2;1;"Total Modification Note";5,00;84,50 €
+1018;0;0;"";0,00;0,00 €
+1019;1;1;"SUPP FOIE GRAS POELE";0,00;0,00 €
+1020;2;1;"Total Net";8,00;47,20 €
+1021;2;1;" dont Ventes";8,00;47,20 €
+1022;0;0;"";0,00;0,00 €
+1023;1;1;"SUPP SAUCE";0,00;0,00 €
+1024;2;1;"Total Net";33,00;33,00 €
+1025;2;1;"Total Brut";34,00;34,00 €
+1026;2;1;" dont Ventes";33,00;33,00 €
+1027;2;1;" dont Offert Client";1,00;1,00 €
+1028;2;1;"Total Avoir Ticket";1,00;1,00 €
+1029;2;1;"Total Modification Note";8,00;8,00 €
+1030;0;0;"";0,00;0,00 €
+1031;1;1;"SURPRISE DU BOUCHER";0,00;0,00 €
+1032;2;1;"Total Net";88,00;458,20 €
+1033;2;1;" dont Ventes";29,00;458,20 €
+1034;2;1;" dont Menus";59,00;0,00 €
+1035;2;1;"Total Avoir Ticket";2,00;0,00 €
+1036;2;1;"Total Modification Note";16,00;79,00 €
+1037;0;0;"";0,00;0,00 €
+1038;1;1;"TRESOR LOUCHEBEM";0,00;0,00 €
+1039;2;1;"Total Net";12,00;370,80 €
+1040;2;1;" dont Ventes";12,00;370,80 €
+1041;2;1;"Total Modification Note";3,00;92,70 €
+1042;0;0;"";0,00;0,00 €
+1043;1;1;"TRIPLE CLASSIC BURGER";0,00;0,00 €
+1044;2;1;"Total Net";1,00;20,60 €
+1045;2;1;" dont Ventes";1,00;20,60 €
+1046;0;0;"";0,00;0,00 €
+1047;1;1;"TRIPLE CROUSTI BURGER";0,00;0,00 €
+1048;2;1;"Total Erreur de saisie";3,00;68,70 €
+1049;0;0;"";0,00;0,00 €
+1050;1;1;"TRIPLE RUST. MAQUIGNON";0,00;0,00 €
+1051;2;1;"Total Net";1,00;22,90 €
+1052;2;1;" dont Ventes";1,00;22,90 €
+1053;0;0;"";0,00;0,00 €
+1054;4;0;"Net VIANDES HORS PROMO";755,00;11243,54 €
+1055;4;0;"Brut VIANDES HORS PROMO";761,00;11385,90 €
+1056;4;0;" dont Ventes";614,00;11171,26 €
+1057;4;0;" dont Menus";126,00;72,28 €
+1058;4;0;" dont Remises";15,00;46,66 €
+1059;4;0;" dont Offert Client";4,00;57,70 €
+1060;4;0;" dont Offert Direction";2,00;38,00 €
+1061;4;0;"Annulations";6,00;102,40 €
+1062;4;0;"Perte";1,00;19,90 €
+1063;4;0;"Erreur de saisie";17,00;205,00 €
+1064;4;0;"Avoir Ticket";16,00;168,50 €
+1065;4;0;"Modification Note";151,00;2094,70 €
+1066;0;0;"";0,00;0,00 €
+1067;3;3;"Net VIANDES HORS PROMOS";848,00;12688,64 €
+1068;3;3;"Brut VIANDES HORS PROMOS";854,00;12831,00 €
+1069;3;3;" dont Ventes";695,00;12616,36 €
+1070;3;3;" dont Menus";138,00;72,28 €
+1071;3;3;" dont Remises";15,00;46,66 €
+1072;3;3;" dont Offert Client";4,00;57,70 €
+1073;3;3;" dont Offert Direction";2,00;38,00 €
+1074;3;3;"Annulations VIANDES HORS PROMOS";7,00;121,10 €
+1075;3;3;"Perte VIANDES HORS PROMOS";1,00;19,90 €
+1076;3;3;"Erreur de saisie VIANDES HORS PROMOS";17,00;205,00 €
+1077;3;3;"Avoir Ticket VIANDES HORS PROMOS";19,00;217,50 €
+1078;3;3;"Modification Note VIANDES HORS PROMOS";162,00;2250,50 €
+1079;0;0;"";0,00;0,00 €
+1080;3;2;"Net VIANDES";848,00;12688,64 €
+1081;3;2;"Brut VIANDES";854,00;12831,00 €
+1082;3;2;" dont Ventes";695,00;12616,36 €
+1083;3;2;" dont Menus";138,00;72,28 €
+1084;3;2;" dont Remises";15,00;46,66 €
+1085;3;2;" dont Offert Client";4,00;57,70 €
+1086;3;2;" dont Offert Direction";2,00;38,00 €
+1087;3;2;"Annulations VIANDES";7,00;121,10 €
+1088;3;2;"Perte VIANDES";1,00;19,90 €
+1089;3;2;"Erreur de saisie VIANDES";17,00;205,00 €
+1090;3;2;"Avoir Ticket VIANDES";19,00;217,50 €
+1091;3;2;"Modification Note VIANDES";162,00;2250,50 €
+1092;0;0;"";0,00;0,00 €
+1093;3;1;"Net SOLIDES";2501,00;24615,83 €
+1094;3;1;"Brut SOLIDES";2549,00;25038,60 €
+1095;3;1;" dont Ventes";1896,00;24458,01 €
+1096;3;1;" dont Menus";557,00;157,82 €
+1097;3;1;" dont Remises";48,00;110,42 €
+1098;3;1;" dont Offert Client";41,00;259,75 €
+1099;3;1;" dont Offert Direction";7,00;52,60 €
+1100;3;1;"Annulations SOLIDES";29,00;318,45 €
+1101;3;1;"Perte SOLIDES";2,00;39,05 €
+1102;3;1;"Erreur de saisie SOLIDES";54,00;486,00 €
+1103;3;1;"Avoir Ticket SOLIDES";73,00;500,50 €
+1104;3;1;"Modification Note SOLIDES";681,00;5149,30 €
+1105;0;0;"";0,00;0,00 €
+1106;3;0;"Net Global";2501,00;24615,83 €
+1107;3;0;"Brut Global";2549,00;25038,60 €
+1108;3;0;" dont Ventes";1896,00;24458,01 €
+1109;3;0;" dont Menus";557,00;157,82 €
+1110;3;0;" dont Remises";48,00;110,42 €
+1111;3;0;" dont Offert Client";41,00;259,75 €
+1112;3;0;" dont Offert Direction";7,00;52,60 €
+1113;3;0;"Annulations Global";29,00;318,45 €
+1114;3;0;"Perte Global";2,00;39,05 €
+1115;3;0;"Erreur de saisie Global";54,00;486,00 €
+1116;3;0;"Avoir Ticket Global";73,00;500,50 €
+1117;3;0;"Modification Note Global";681,00;5149,30 €
+1118;0;0;"";0,00;0,00 €
